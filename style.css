@@ -196,7 +196,7 @@ svg{
         display: flex;
         justify-content: center;
         gap: 15px;
-        margin-top: -105px;
+        margin-top: -64px;
     
   }
     } 
@@ -288,7 +288,7 @@ svg{
         }
         
         .social-icons {
-            margin-top: 26px;
+            margin-top: 74px;
         }
     }
     .footer {
