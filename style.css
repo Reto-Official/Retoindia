@@ -167,7 +167,7 @@ svg{
         display: flex;
         justify-content: center;
         gap: 15px;
-        margin-top: -92px;
+        margin-top: -77px;
     
   }
   .main-title {
@@ -196,7 +196,7 @@ svg{
         display: flex;
         justify-content: center;
         gap: 15px;
-        margin-top: -72px;
+        margin-top: -105px;
     
   }
     } 
@@ -239,6 +239,9 @@ svg{
             font-weight: 300;
             text-transform: uppercase;
         }
+        .social-icons {
+            margin-top: -3px;
+        }
     
      
     }
@@ -256,6 +259,9 @@ svg{
             font-size: 5rem;
             font-weight: 300;
             text-transform: uppercase;
+        }
+        .social-icons {
+            margin-top: 26px;
         }
      
     }
@@ -281,7 +287,9 @@ svg{
             margin-bottom: 4rem;
         }
         
-     
+        .social-icons {
+            margin-top: 26px;
+        }
     }
     .footer {
         text-align: center;
